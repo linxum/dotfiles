@@ -1,4 +1,6 @@
-{
+{ 
+    "confirmCloseAllTabs": false,
+    "copyFormatting": "none",
     "schemes": 
     [
         {

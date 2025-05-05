@@ -1,0 +1,8 @@
+{
+    "workbench.colorTheme": "Catppuccin Mocha",
+    "python.locator": "js",
+    "python.defaultInterpreterPath": "C:\\Program Files\\Python313\\python.exe",
+    "database-client.autoSync": true,
+    "github.copilot.chat.agent.thinkingTool": true,
+    "chat.agent.enabled": true
+}
